@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# dersleri\\Plane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|d:\\c# dersleri\\plane\\plane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|solutionrelative:plane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|d:\\c# dersleri\\plane\\plane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|solutionrelative:plane\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|d:\\c# dersleri\\plane\\plane\\planesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|solutionrelative:plane\\planesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|d:\\c# dersleri\\plane\\plane\\planesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{538A32CA-DE2A-4219-B730-ADB34CBA797E}|Plane\\Plane.csproj|solutionrelative:plane\\planesound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C# dersleri\\Plane\\Plane\\Form1.cs",
+              "RelativeDocumentMoniker": "Plane\\Form1.cs",
+              "ToolTip": "D:\\C# dersleri\\Plane\\Plane\\Form1.cs*",
+              "RelativeToolTip": "Plane\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:43:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaneSound.cs",
+              "DocumentMoniker": "D:\\C# dersleri\\Plane\\Plane\\PlaneSound.cs",
+              "RelativeDocumentMoniker": "Plane\\PlaneSound.cs",
+              "ToolTip": "D:\\C# dersleri\\Plane\\Plane\\PlaneSound.cs",
+              "RelativeToolTip": "Plane\\PlaneSound.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAewCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:40:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaneSound.cs [Design]",
+              "DocumentMoniker": "D:\\C# dersleri\\Plane\\Plane\\PlaneSound.cs",
+              "RelativeDocumentMoniker": "Plane\\PlaneSound.cs",
+              "ToolTip": "D:\\C# dersleri\\Plane\\Plane\\PlaneSound.cs [Design]",
+              "RelativeToolTip": "Plane\\PlaneSound.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:28:20.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C# dersleri\\Plane\\Plane\\Form1.cs",
+              "RelativeDocumentMoniker": "Plane\\Form1.cs",
+              "ToolTip": "D:\\C# dersleri\\Plane\\Plane\\Form1.cs [Design]*",
+              "RelativeToolTip": "Plane\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:21:08.11Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
