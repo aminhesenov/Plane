@@ -1,0 +1,17 @@
+D:\C# lesson\Plane\Plane\bin\Debug\net8.0-windows\Plane.exe
+D:\C# lesson\Plane\Plane\bin\Debug\net8.0-windows\Plane.deps.json
+D:\C# lesson\Plane\Plane\bin\Debug\net8.0-windows\Plane.runtimeconfig.json
+D:\C# lesson\Plane\Plane\bin\Debug\net8.0-windows\Plane.dll
+D:\C# lesson\Plane\Plane\bin\Debug\net8.0-windows\Plane.pdb
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.Form1.resources
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.Properties.Resources.resources
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.csproj.GenerateResource.cache
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.AssemblyInfoInputs.cache
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.AssemblyInfo.cs
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.csproj.CoreCompileInputs.cache
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.dll
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\refint\Plane.dll
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.pdb
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\Plane.genruntimeconfig.cache
+D:\C# lesson\Plane\Plane\obj\Debug\net8.0-windows\ref\Plane.dll
